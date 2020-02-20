@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\ECommerceModul\ECommerceModul\bin\Debug\ECommerceModul.exe.config
+C:\Users\Lenovo\source\repos\ECommerceModul\ECommerceModul\bin\Debug\ECommerceModul.exe
+C:\Users\Lenovo\source\repos\ECommerceModul\ECommerceModul\bin\Debug\ECommerceModul.pdb
+C:\Users\Lenovo\source\repos\ECommerceModul\ECommerceModul\obj\Debug\ECommerceModul.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ECommerceModul\ECommerceModul\obj\Debug\ECommerceModul.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ECommerceModul\ECommerceModul\obj\Debug\ECommerceModul.exe
+C:\Users\Lenovo\source\repos\ECommerceModul\ECommerceModul\obj\Debug\ECommerceModul.pdb
